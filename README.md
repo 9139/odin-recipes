@@ -1,0 +1,1 @@
+This project is a simple recipe site done in HTML. This will demonstrate basic skills in HTML such as using images, links, and basic file management. 
